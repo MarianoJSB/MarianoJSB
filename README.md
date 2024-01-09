@@ -4,6 +4,7 @@
 <h3 align="center">A passionate software developer from Argentina. My focus is creating efficient and creative solutions to complex challenges.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marianojsb&label=Profile%20views&color=0e75b6&style=flat" alt="marianojsb" /> </p>
+[![](https://visitcount.itsvg.in/api?id=MarianoJSB&icon=0&color=8)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently working on [CMF engines](https://cmfengines.com.ar/)
 
@@ -20,4 +21,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marianojsb&show_icons=true&locale=en&layout=compact" alt="marianojsb" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=marianojsb&show_icons=true&locale=en" alt="marianojsb" /></p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianoJSB&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=MarianoJSB&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
