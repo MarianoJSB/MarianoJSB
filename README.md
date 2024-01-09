@@ -1,4 +1,4 @@
-<img align="center" alt="CODING👨‍💻" height="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center" alt="CODING👨‍💻" height="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h1 align="center">Hi 👋, I'm Mariano Aguiar</h1>
 <h3 align="center">A passionate software developer from Argentina</h3>
 
