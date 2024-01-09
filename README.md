@@ -1,6 +1,7 @@
+[![MasterHead](Banner.png)](https://github.com/MarianoJSB)
+
 <h1 align="center">Hi 👋, I'm Mariano Aguiar</h1>
 <h3 align="center">A passionate software developer from Argentina</h3>
-<img align="right" alt="CODING👨‍💻" height="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marianojsb&label=Profile%20views&color=0e75b6&style=flat" alt="marianojsb" /> </p>
 
