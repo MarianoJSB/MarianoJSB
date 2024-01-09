@@ -1,4 +1,4 @@
-[![MasterHead](<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" height="100">)](https://marianojsb.io)
+[![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)](https://marianojsb.io)
 
 <h1 align="center">Hi 👋, I'm Mariano Aguiar</h1>
 <h3 align="center">A passionate software developer from Argentina</h3>
