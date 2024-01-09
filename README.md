@@ -28,5 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marianojsb&show_icons=true&locale=en&layout=compact" alt="marianojsb" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=marianojsb&show_icons=true&locale=en" alt="marianojsb" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=marianojsb&" alt="marianojsb" /></p>
