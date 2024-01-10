@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [CMF engines](https://cmfengines.com.ar/)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Machine learning**
 
 - 👨‍💻 All of my projects are available at [https://marianojsb.github.io/](https://marianojsb.github.io/)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Backend web development**
 
 - 📫 How to reach me **mariano.n.aguiar@gmail.com**
 
