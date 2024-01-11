@@ -1,7 +1,7 @@
 [![MasterHead](Banner.png)](https://github.com/MarianoJSB)
 
 <h1 align="center">Hi 👋, I'm Mariano Aguiar</h1>
-<h3 align="center">A passionate software developer from Argentina. My focus is creating efficient and creative solutions to complex challenges.</h3>
+<h3 align="center">A passionate software developer from Argentina. My focus is creating efficient and creative solutions to complex challenges. I like to turn ideas into programs.</h3>
 
 [![](https://visitcount.itsvg.in/api?id=MarianoJSB&icon=0&color=8)](https://visitcount.itsvg.in)
 
