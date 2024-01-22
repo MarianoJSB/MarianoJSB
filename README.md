@@ -1,16 +1,16 @@
 [![MasterHead](Banner.png)](https://github.com/MarianoJSB)
 
 <h1 align="center">Hi 👋, I'm Mariano Aguiar</h1>
-<h3 align="center">A passionate software developer from Argentina. My focus is creating efficient and creative solutions to complex challenges. I like to turn ideas into programs.</h3>
+<h3 align="center">I am a passionate software developer from Argentina, dedicated to transforming ideas into efficient and creative solutions for complex challenges. With a focus on crafting elegant code and leveraging the latest technologies, I thrive on turning abstract concepts into tangible, high-performance programs</h3>
 
 [![](https://visitcount.itsvg.in/api?id=MarianoJSB&icon=0&color=8)](https://visitcount.itsvg.in)
-
-- 🔭 I’m currently working on [CMF engines](https://cmfengines.com.ar/)
 
 - 🌱 I’m currently learning **Machine learning**
 
 - 👨‍💻 All of my projects are available at [https://marianojsb.github.io/](https://marianojsb.github.io/)
 
+- 💼 Open to new opportunities and collaborations.
+  
 - 💬 Ask me about **Backend web development**
 
 - 📫 How to reach me **mariano.n.aguiar@gmail.com**
