@@ -5,13 +5,9 @@
 
 [![](https://visitcount.itsvg.in/api?id=MarianoJSB&icon=0&color=8)](https://visitcount.itsvg.in)
 
-- 🌱 I’m currently learning **Machine learning**
-
 - 👨‍💻 All of my projects are available at [https://marianojsb.github.io/](https://marianojsb.github.io/)
 
 - 💼 Open to new opportunities and collaborations.
-  
-- 💬 Ask me about **Backend web development**
 
 - 📫 How to reach me **mariano.n.aguiar@gmail.com**
 <br>
