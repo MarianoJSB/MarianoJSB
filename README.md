@@ -6,7 +6,7 @@
 [![](https://visitcount.itsvg.in/api?id=MarianoJSB&icon=0&color=8)](https://visitcount.itsvg.in)
 
 <h2 align="left">💻 Skills and Tools:</h2>
-<ul>
+<ul align="center">
   <li>Frontend skills:
       HTML, CSS, Flexbox, Javascript, Bootstrap, ReactJS/native
   </li>
