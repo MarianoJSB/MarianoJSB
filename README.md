@@ -6,11 +6,16 @@
 [![](https://visitcount.itsvg.in/api?id=MarianoJSB&icon=0&color=8)](https://visitcount.itsvg.in)
 
 <h2 align="left">💻 Skills and Tools:</h2>
-<ul align="center">
-  <li>Frontend skills:
+<ul>
+  <li>Frontend Skills:
       HTML, CSS, Flexbox, Javascript, Bootstrap, ReactJS/native
   </li>
-  
+  <li>Backend Skills:
+      Java, PHP, Python, NodeJS, ExpressJS, restAPI, JSON, MVC, SQL
+  </li>
+  <li>Tools:
+      XAMPP, Figma, MySQL, Expo, Postman, VScode/VS, Git & Github, Jira, CLI, UML, NPM & NPX
+  </li>
 </ul>
 
 <h2 align="left">📊 Github stats:</h2>
