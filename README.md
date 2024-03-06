@@ -6,7 +6,7 @@
 [![](https://visitcount.itsvg.in/api?id=MarianoJSB&icon=0&color=8)](https://visitcount.itsvg.in)
 
 <h2 align="left">💻 Skills and Tools:</h2>
-<ul>
+<ul align="center">
   <li>Frontend Skills:
       HTML, CSS, Flexbox, Javascript, Bootstrap, ReactJS/native
   </li>
@@ -20,5 +20,5 @@
 
 <h2 align="left">📊 Github stats:</h2>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianoJSB&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ![](https://github-readme-stats.vercel.app/api?username=MarianoJSB&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
