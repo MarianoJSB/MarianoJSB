@@ -22,6 +22,3 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=MarianoJSB&theme=onedark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Readme Stats">
 </p>
-<center>
-![](https://github-readme-stats.vercel.app/api?username=MarianoJSB&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)
-</center>
