@@ -2,6 +2,7 @@
 
 <h2 align="center">Hi 👋, I'm Mariano Aguiar</h1>
 <h2 align="center">I am a passionate software developer from Argentina, dedicated to transforming ideas into efficient and creative solutions for complex challenges. With a focus on crafting elegant code and leveraging the latest technologies</h3>
+<br>
 
 [![](https://visitcount.itsvg.in/api?id=MarianoJSB&icon=0&color=8)](https://visitcount.itsvg.in)
 
