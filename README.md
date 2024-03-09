@@ -2,12 +2,10 @@
 
 <h2 align="center">Hi 👋, I'm Mariano Aguiar</h1>
 <h2 align="center">I am a passionate software developer from Argentina, dedicated to transforming ideas into efficient and creative solutions for complex challenges. With a focus on crafting elegant code and leveraging the latest technologies</h3>
-<br>
 
 [![](https://visitcount.itsvg.in/api?id=MarianoJSB&icon=0&color=8)](https://visitcount.itsvg.in)
 
 <h2 align="left">💻 Skills and Tools:</h2>
-<br>
 <ul>
   <li>Frontend Skills:
       HTML, CSS, Flexbox, Javascript, Bootstrap, ReactJS/native
@@ -19,8 +17,6 @@
       XAMPP, Figma, MySQL, Expo, Postman, VScode/VS, Git & Github, Jira, CLI, UML, NPM & NPX
   </li>
 </ul>
-<br>
-
 <h2 align="left">📊 Github stats:</h2>
 <br>
 <p align="center">
