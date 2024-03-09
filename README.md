@@ -24,7 +24,7 @@
 </p>
 <br>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarianoJSB&theme=react&hide_border=false" alt="GitHub Readme Stats"
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianoJSB&theme=react&hide_border=false&include_all_commits=false&count_private=false" 
+alt="GitHub Readme Stats">
 </p>
-![]()<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianoJSB&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
