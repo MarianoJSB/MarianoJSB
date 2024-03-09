@@ -22,3 +22,8 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=MarianoJSB&theme=onedark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Readme Stats">
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marianojsb&show_icons=true&locale=en&layout=compact" alt="marianojsb" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marianojsb&show_icons=true&locale=en" alt="marianojsb" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marianojsb&" alt="marianojsb" /></p>
