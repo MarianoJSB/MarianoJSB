@@ -1,7 +1,7 @@
 [![MasterHead](Banner.png)](https://github.com/MarianoJSB)
 
 <h2 align="center">Hi 👋, I'm Mariano Aguiar</h1>
-<h2 align="center">I'm a passionate young software developer for backend development and database manipulation. I love to transforming ideas into digital products</h3>
+<h2 align="center">I'm a young software developer passionate about backend development and database manipulation. I love to transforming ideas into digital products</h3>
 <br>
 
 [![](https://visitcount.itsvg.in/api?id=MarianoJSB&icon=0&color=8)](https://visitcount.itsvg.in)
