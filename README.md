@@ -11,7 +11,7 @@
       HTML, CSS, Flexbox, Javascript, Bootstrap, ReactJS/native
   </li>
   <li>Backend Skills:
-      Java, PHP, Python, NodeJS, ExpressJS, restAPI, JSON, MVC, SQL
+      Java, PHP, Python, NodeJS, ExpressJS, REST API, JSON, MVC, SQL
   </li>
   <li>Tools:
       XAMPP, Figma, MySQL, SQLite, Expo, Postman, VScode/VS, Git & Github, Jira, CLI, UML, NPM & NPX
