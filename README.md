@@ -1,8 +1,7 @@
 [![MasterHead](Banner.png)](https://github.com/MarianoJSB)
 
 <h2 align="center">Hi 👋, I'm Mariano Aguiar</h1>
-<h2 align="center">I'm a young software developer passionate about backend development and database manipulation. I love to transforming ideas into digital realities</h3>
-<br>
+<h2 align="center">I'm a young software developer passionate about backend development and database manipulation. I love to transforming ideas into digital realities.</h3>
 
 [![](https://visitcount.itsvg.in/api?id=MarianoJSB&icon=0&color=8)](https://visitcount.itsvg.in)
 
@@ -15,7 +14,7 @@
       Java, PHP, Python, NodeJS, ExpressJS, restAPI, JSON, MVC, SQL
   </li>
   <li>Tools:
-      XAMPP, Figma, MySQL, Expo, Postman, VScode/VS, Git & Github, Jira, CLI, UML, NPM & NPX
+      XAMPP, Figma, MySQL, SQLite, Expo, Postman, VScode/VS, Git & Github, Jira, CLI, UML, NPM & NPX
   </li>
 </ul>
 <h2 align="left">📊 Github stats:</h2>
