@@ -7,14 +7,11 @@
 
 <h2 align="left">💻 Skills and Tools:</h2>
 <ul>
-  <li>Frontend Skills:
-      HTML, CSS, Flexbox, Javascript, Bootstrap, ReactJS/native
-  </li>
-  <li>Backend Skills:
-      Java, PHP, Python, NodeJS, ExpressJS, REST API, JSON, MVC, SQL
+  <li>Backend Technologies:
+      Java, PHP, Python, FASTapi, Django, NodeJS, ExpressJS, REST API, JSON, MVC
   </li>
   <li>Tools:
-      XAMPP, Figma, MySQL, SQLite, Expo, Postman, VScode/VS, Git & Github, Jira, CLI, UML, NPM & NPX
+      XAMPP, Figma, MySQL, SQLite, PostgreSQL, MongoDB, Postman, VScode/VS, Vim, Git & Github, Jira, CLI, NPM & NPX, PIP & PIPENV, Uvicorn, Docker, GNU/Linux
   </li>
 </ul>
 <h2 align="left">📊 Github stats:</h2>
