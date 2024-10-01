@@ -8,10 +8,10 @@
 <h2 align="left">💻 Skills and Tools:</h2>
 <ul>
   <li>Backend Skills:
-      Java, PHP, Python, FastAPI, Django, NodeJS, ExpressJS, MySQL, SQLite, PostgreSQL, MongoDB, REST API, JSON, MVC
+      <strong>Java, PHP, Python, FastAPI, Django, NodeJS, ExpressJS, MySQL, SQLite, PostgreSQL, MongoDB, REST API, JSON, MVC</strong>
   </li>
   <li>Tools:
-      XAMPP, Postman, Vim, Git & Github, Jira, NPM & NPX, PIP & PIPENV, Uvicorn, Jupyter Notebook, Docker, GNU/Linux
+      <strong>XAMPP, Postman, Vim, Git & Github, Jira, NPM & NPX, PIP & PIPENV, Uvicorn, Jupyter Notebook, Docker, GNU/Linux</strong>
   </li>
 </ul>
 <h2 align="left">📊 Github stats:</h2>
