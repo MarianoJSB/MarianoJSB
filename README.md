@@ -1,7 +1,9 @@
 [![MasterHead](Banner.png)](https://github.com/MarianoJSB)
 
 <h2>Hi 👋, I'm Mariano Aguiar</h1>
-<p>I'm a young <strong>software developer</strong> passionate about <strong>backend development and database management</strong>. However, I am now becoming self-taught studying other IT areas, such as data science and machine learning. I love to transforming ideas into <strong>digital realities</strong></p>
+<p>I am a <strong>Software Developer</strong>, passionate about technology and transforming ideas into <strong>digital realities</strong>. In this profile you will find the different projects that I carried out throughout my career as a systems student and in my professional career, with a wide range of languages and technologies, experimenting in IT areas such as <strong>Backend Development</strong> and Data Science.
+If you want you can see my web portfolio where you can interact with some of the applications I was working on.
+</p>
 
 [![](https://visitcount.itsvg.in/api?id=MarianoJSB&icon=0&color=8)](https://visitcount.itsvg.in)
 
