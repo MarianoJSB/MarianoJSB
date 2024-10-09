@@ -6,6 +6,7 @@
 [![](https://visitcount.itsvg.in/api?id=MarianoJSB&icon=0&color=8)](https://visitcount.itsvg.in)
 
 <h2 align="left">💻 Technologies and Tools:</h2>
+
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
@@ -24,6 +25,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
 <h2 align="left">📊 Github stats:</h2>
 <br>
 <p align="center">
