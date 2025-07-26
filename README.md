@@ -1,7 +1,7 @@
 [![MasterHead](Banner.png)](https://github.com/MarianoJSB)
 
 <h2>Hi 👋, I'm Mariano Aguiar</h1>
-<p>I am a <strong>Software Developer</strong>, passionate about technology and transforming ideas into <strong>digital realities</strong>. In this profile you will find the different projects that I carried out throughout my career as a systems student and in my professional career, with a wide range of languages and technologies, experimenting in IT areas such as <strong>Backend Development</strong> and Data Science.
+<p>I am a <strong>Software Developer</strong>, passionate about technology and transforming ideas into <strong>digital realities</strong>. In this profile you will find the different projects that I carried out throughout my career as a systems student and in my professional career, with a wide range of languages and technologies, experimenting in IT areas such as <strong>Backend Development</strong> and Software Architecture .
 If you want you can see my web portfolio where you can interact with some of the applications I was working on below
 
 [Portfolio](https://marianojsb.github.io/)
@@ -11,14 +11,12 @@ If you want you can see my web portfolio where you can interact with some of the
 
 <h2 align="left">💻 Technologies and Tools:</h2>
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat-square&logo=django&logoColor=white&color=ff1709&labelColor=gray)
@@ -40,7 +38,6 @@ If you want you can see my web portfolio where you can interact with some of the
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 <h2 align="left">📊 Github stats:</h2>
